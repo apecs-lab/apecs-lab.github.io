@@ -1,0 +1,26 @@
+
+#apecs-home {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(216, 233, 235);
+  padding: 1rem;
+}
+#apecs-home h2 {
+  font-family: Verdana, sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+#apecs-home p {
+  font-family: Verdana, sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#apecs-home p {
+  max-width: 60rem;
+}
+
